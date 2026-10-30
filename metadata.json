@@ -1,0 +1,6 @@
+{
+  "name": "মুখে ল (MUKHE L) - Bengali Community & Membership Platform",
+  "description": "একটি আধুনিক, প্রিমিয়াম ও ঐক্যবদ্ধ বাংলা প্রাইভেট কমিউনিটি ও মেম্বারশিপ প্ল্যাটফর্ম।",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
